@@ -17,5 +17,8 @@ This repository serves as a comprehensive guide to understanding and implementin
 ## Usage
 Feel free to explore each file to understand the concepts better. You can run the code examples provided in each file to see how they work. Additionally, you can use these files as a reference while learning or teaching Object-Oriented Programming in C++.
 
+## Source of Inspiration
+The notes in this repository were created based on the concepts explained in the YouTube video titled Object Oriented Programming in C++ | Full Course | Includes Inheritance, Polymorphism & Encapsulation. You can refer to this video for a more detailed explanation of the concepts covered in these notes.
+
 ## Contribution
 If you find any errors or have suggestions for improvement, please feel free to open an issue or submit a pull request. Contributions are welcome and encouraged!
